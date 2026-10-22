@@ -1,0 +1,6 @@
+{
+  "name": "Normas Vigentes de Software y Calidad",
+  "description": "Portal interactivo con buscador de estándares ISO/IEC, niveles CMMI y metodologías ágiles de documentación con panel de administración y evaluador de madurez.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
